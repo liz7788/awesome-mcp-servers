@@ -219,6 +219,7 @@ MCP is an open protocol (now part of the [Linux Foundation](https://www.linuxfou
 | [Auth0](https://github.com/auth0/auth0-mcp-server) | Identity management and authentication flows | `npx -y @auth0/mcp-server` | [![](https://img.shields.io/github/stars/auth0/auth0-mcp-server?style=flat-square)](https://github.com/auth0/auth0-mcp-server) |
 | [1Password](https://github.com/1Password/mcp-server) | Secure credential access and secret management | `npx -y @1password/mcp-server` | [![](https://img.shields.io/github/stars/1Password/mcp-server?style=flat-square)](https://github.com/1Password/mcp-server) |
 | [Bitwarden](https://github.com/bitwarden/mcp-server) | Secure AI access to Bitwarden vault | See repo | [![](https://img.shields.io/github/stars/bitwarden/mcp-server?style=flat-square)](https://github.com/bitwarden/mcp-server) |
+| [EnigmAgent](https://github.com/Agnuxo1/EnigmAgent) | AES-256-GCM + Argon2id encrypted local vault. Resolves `{{PLACEHOLDER}}` secrets at runtime — API keys never appear in prompts | `npm install -g enigmagent-mcp` | [![](https://img.shields.io/github/stars/Agnuxo1/EnigmAgent?style=flat-square)](https://github.com/Agnuxo1/EnigmAgent) |
 
 ## DevOps & Monitoring
 
