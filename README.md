@@ -211,6 +211,7 @@ MCP is an open protocol (now part of the [Linux Foundation](https://www.linuxfou
 |------|-------------|---------|-------|
 | [HubSpot](https://developers.hubspot.com/mcp) | Securely connect AI clients to HubSpot CRM data | Remote MCP | — |
 | [Salesforce](https://github.com/LokiMCPUniverse/salesforce-mcp-server) | Full CRM integration with query, create, update, delete | See repo | [![](https://img.shields.io/github/stars/LokiMCPUniverse/salesforce-mcp-server?style=flat-square)](https://github.com/LokiMCPUniverse/salesforce-mcp-server) |
+| [NotFair](https://github.com/nowork-studio/toprank) | Google Ads MCP server. Diagnose campaign performance, recommend optimizations, and execute approved changes via the Google Ads API with a built-in human-approval gate. | Remote MCP (streamable-http) | [![](https://img.shields.io/github/stars/nowork-studio/toprank?style=flat-square)](https://github.com/nowork-studio/toprank) |
 
 ## Security & Identity
 
