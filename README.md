@@ -187,6 +187,7 @@ MCP is an open protocol (now part of the [Linux Foundation](https://www.linuxfou
 | [Stripe](https://github.com/stripe/agent-toolkit) | Payment processing, customer management, and invoicing | `npx -y @stripe/mcp` | [![](https://img.shields.io/github/stars/stripe/agent-toolkit?style=flat-square)](https://github.com/stripe/agent-toolkit) |
 | [Alpaca](https://github.com/alpacahq/alpaca-mcp-server) | Stock trading and real-time market data | `npx -y @alpacahq/mcp-server` | [![](https://img.shields.io/github/stars/alpacahq/alpaca-mcp-server?style=flat-square)](https://github.com/alpacahq/alpaca-mcp-server) |
 | [Adfin](https://github.com/Adfin-Engineering/mcp-server-adfin) | Payment and invoicing platform integration | `npx -y @adfin/mcp-server` | [![](https://img.shields.io/github/stars/Adfin-Engineering/mcp-server-adfin?style=flat-square)](https://github.com/Adfin-Engineering/mcp-server-adfin) |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | Trust scoring for Solana AI agent wallets with x402 micropayment verification | `{"url":"https://intel.twzrd.xyz/mcp"}` | - |
 
 ## Data & Analytics
 
