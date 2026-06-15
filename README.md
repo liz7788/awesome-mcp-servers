@@ -233,6 +233,7 @@ MCP is an open protocol (now part of the [Linux Foundation](https://www.linuxfou
 | Name | Description | Install | Stars |
 |------|-------------|---------|-------|
 | [n8n](https://github.com/leonardsellem/n8n-mcp-server) | Bridge AI with n8n workflow automation | `npx -y n8n-mcp-server` | [![](https://img.shields.io/github/stars/leonardsellem/n8n-mcp-server?style=flat-square)](https://github.com/leonardsellem/n8n-mcp-server) |
+| [TweetClaw](https://github.com/Xquik-dev/tweetclaw) | OpenClaw plugin for X/Twitter search, posting, exports, media, and monitors | `openclaw plugins install npm:@xquik/tweetclaw` | [![](https://img.shields.io/github/stars/Xquik-dev/tweetclaw?style=flat-square)](https://github.com/Xquik-dev/tweetclaw) |
 
 ## Smart Home & IoT
 
