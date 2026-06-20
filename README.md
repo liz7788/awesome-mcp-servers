@@ -195,6 +195,7 @@ MCP is an open protocol (now part of the [Linux Foundation](https://www.linuxfou
 | [Snowflake](https://github.com/Snowflake-Labs/mcp) | Cortex Agents, SQL execution, and data management with RBAC | See repo | [![](https://img.shields.io/github/stars/Snowflake-Labs/mcp?style=flat-square)](https://github.com/Snowflake-Labs/mcp) |
 | [BigQuery](https://github.com/ergut/mcp-bigquery-server) | Google BigQuery dataset exploration and SQL queries | `npx -y @ergut/mcp-bigquery-server` | [![](https://img.shields.io/github/stars/ergut/mcp-bigquery-server?style=flat-square)](https://github.com/ergut/mcp-bigquery-server) |
 | [Grafana](https://github.com/grafana/mcp-grafana) | Dashboards, Prometheus/Loki queries, alerting, incidents | See repo | [![](https://img.shields.io/github/stars/grafana/mcp-grafana?style=flat-square)](https://github.com/grafana/mcp-grafana) |
+| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | X data workflows for search, profiles, exports, monitors, and webhooks | Remote MCP | - |
 
 ## CMS & Content
 
