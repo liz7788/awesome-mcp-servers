@@ -144,6 +144,7 @@ MCP is an open protocol (now part of the [Linux Foundation](https://www.linuxfou
 | [Docfork](https://github.com/docfork/docfork-mcp) | Live documentation and code examples for any library | `npx -y @docfork/mcp` | [![](https://img.shields.io/github/stars/docfork/docfork-mcp?style=flat-square)](https://github.com/docfork/docfork-mcp) |
 | [AgentOps](https://github.com/AgentOps-AI/agentops-mcp) | AI agent observability and monitoring | `pip install agentops-mcp` | [![](https://img.shields.io/github/stars/AgentOps-AI/agentops-mcp?style=flat-square)](https://github.com/AgentOps-AI/agentops-mcp) |
 | [LangChain](https://github.com/langchain-ai/langchain-mcp-adapters) | Bridge MCP tools into LangChain/LangGraph agents | `pip install langchain-mcp-adapters` | [![](https://img.shields.io/github/stars/langchain-ai/langchain-mcp-adapters?style=flat-square)](https://github.com/langchain-ai/langchain-mcp-adapters) |
+| [RunAPI](https://github.com/runapi-ai/mcp) | Model discovery, pricing lookup, and image, video, music/audio task creation | `npx -y @runapi.ai/mcp` | [![](https://img.shields.io/github/stars/runapi-ai/mcp?style=flat-square)](https://github.com/runapi-ai/mcp) |
 | [ReactBits](https://github.com/ibelick/reactbits) | 135+ animated React component patterns for AI reference | See repo | [![](https://img.shields.io/github/stars/ibelick/reactbits?style=flat-square)](https://github.com/ibelick/reactbits) |
 
 ## Productivity & Project Management
