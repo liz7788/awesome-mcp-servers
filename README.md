@@ -126,6 +126,7 @@ MCP is an open protocol (now part of the [Linux Foundation](https://www.linuxfou
 
 | Name | Description | Install | Stars |
 |------|-------------|---------|-------|
+| [Agent QA](https://github.com/vostride/agent-qa) | Natural-language web and mobile application QA through MCP | `npx -y agent-qa mcp` | [![](https://img.shields.io/github/stars/vostride/agent-qa?style=flat-square)](https://github.com/vostride/agent-qa) |
 | [GitHub](https://github.com/github/github-mcp-server) | Official GitHub server — repos, PRs, issues, actions | `npx -y @github/mcp-server` | [![](https://img.shields.io/github/stars/github/github-mcp-server?style=flat-square)](https://github.com/github/github-mcp-server) |
 | [GitLab](https://github.com/modelcontextprotocol/servers-archived) | GitLab API integration for project management | `npx -y @modelcontextprotocol/server-gitlab` | — |
 | [Apollo GraphQL](https://github.com/apollographql/apollo-mcp-server) | Connect to GraphQL APIs with schema introspection | `npx -y @apollo/mcp-server` | [![](https://img.shields.io/github/stars/apollographql/apollo-mcp-server?style=flat-square)](https://github.com/apollographql/apollo-mcp-server) |
