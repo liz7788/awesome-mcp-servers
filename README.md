@@ -76,6 +76,7 @@ MCP is an open protocol (now part of the [Linux Foundation](https://www.linuxfou
 
 | Name | Description | Install | Stars |
 |------|-------------|---------|-------|
+| [Agent QA](https://github.com/vostride/agent-qa) | Natural-language web and mobile test execution and triage | `npx -y agent-qa mcp` | [![](https://img.shields.io/github/stars/vostride/agent-qa?style=flat-square)](https://github.com/vostride/agent-qa) |
 | [Playwright](https://github.com/microsoft/playwright-mcp) | Browser automation via accessibility snapshots (by Microsoft) | `npx -y @playwright/mcp` | [![](https://img.shields.io/github/stars/microsoft/playwright-mcp?style=flat-square)](https://github.com/microsoft/playwright-mcp) |
 | [Browserbase](https://github.com/browserbase/mcp-server-browserbase) | Cloud browser automation with Stagehand AI | `npx -y @browserbasehq/mcp-server` | [![](https://img.shields.io/github/stars/browserbase/mcp-server-browserbase?style=flat-square)](https://github.com/browserbase/mcp-server-browserbase) |
 | [Puppeteer](https://github.com/modelcontextprotocol/servers-archived) | Browser automation with screenshot and PDF support | `npx -y @modelcontextprotocol/server-puppeteer` | — |
