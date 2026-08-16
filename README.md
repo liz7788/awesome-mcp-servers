@@ -245,6 +245,7 @@ MCP is an open protocol (now part of the [Linux Foundation](https://www.linuxfou
 
 | Name | Description | Install | Stars |
 |------|-------------|---------|-------|
+| [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | Compose, edit, generate, and transcribe videos from editable timelines | `git clone https://github.com/Orkas-AI/Orkas-VideoStudio.git` | [![](https://img.shields.io/github/stars/Orkas-AI/Orkas-VideoStudio?style=flat-square)](https://github.com/Orkas-AI/Orkas-VideoStudio) |
 | [Spotify](https://github.com/varunneal/spotify-mcp) | Control Spotify playback and manage playlists | `uvx spotify-mcp` | [![](https://img.shields.io/github/stars/varunneal/spotify-mcp?style=flat-square)](https://github.com/varunneal/spotify-mcp) |
 | [YouTube Music](https://github.com/instructa/mcp-youtube-music) | Search and play YouTube music tracks | `npx -y mcp-youtube-music` | [![](https://img.shields.io/github/stars/instructa/mcp-youtube-music?style=flat-square)](https://github.com/instructa/mcp-youtube-music) |
 
