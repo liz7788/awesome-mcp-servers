@@ -150,6 +150,7 @@ MCP is an open protocol (now part of the [Linux Foundation](https://www.linuxfou
 
 | Name | Description | Install | Stars |
 |------|-------------|---------|-------|
+| [Process Street](https://github.com/process-street/process-street-mcp) | Connect AI agents to workflows, tasks, runs, and data sets | `Remote MCP: https://mcp.process.st/` | [![](https://img.shields.io/github/stars/process-street/process-street-mcp?style=flat-square)](https://github.com/process-street/process-street-mcp) |
 | [Notion](https://github.com/makenotion/notion-mcp-server) | Official Notion API — pages, databases, blocks, semantic search | `npx -y @notionhq/notion-mcp-server` | [![](https://img.shields.io/github/stars/makenotion/notion-mcp-server?style=flat-square)](https://github.com/makenotion/notion-mcp-server) |
 | [Linear](https://github.com/jerhadf/linear-mcp-server) | Manage Linear issues, projects, and cycles | `npx -y linear-mcp-server` | [![](https://img.shields.io/github/stars/jerhadf/linear-mcp-server?style=flat-square)](https://github.com/jerhadf/linear-mcp-server) |
 | [Atlassian](https://github.com/sooperset/mcp-atlassian) | Jira + Confluence (Cloud + Data Center) | `uvx mcp-atlassian` | [![](https://img.shields.io/github/stars/sooperset/mcp-atlassian?style=flat-square)](https://github.com/sooperset/mcp-atlassian) |
