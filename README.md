@@ -209,6 +209,7 @@ MCP is an open protocol (now part of the [Linux Foundation](https://www.linuxfou
 
 | Name | Description | Install | Stars |
 |------|-------------|---------|-------|
+| [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) | Batch social media scheduling and publishing via API and MCP | Remote MCP ([docs](https://app.bulkpublish.com/docs)) | — |
 | [HubSpot](https://developers.hubspot.com/mcp) | Securely connect AI clients to HubSpot CRM data | Remote MCP | — |
 | [Salesforce](https://github.com/LokiMCPUniverse/salesforce-mcp-server) | Full CRM integration with query, create, update, delete | See repo | [![](https://img.shields.io/github/stars/LokiMCPUniverse/salesforce-mcp-server?style=flat-square)](https://github.com/LokiMCPUniverse/salesforce-mcp-server) |
 
