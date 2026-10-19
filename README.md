@@ -185,6 +185,7 @@ MCP is an open protocol (now part of the [Linux Foundation](https://www.linuxfou
 | Name | Description | Install | Stars |
 |------|-------------|---------|-------|
 | [Stripe](https://github.com/stripe/agent-toolkit) | Payment processing, customer management, and invoicing | `npx -y @stripe/mcp` | [![](https://img.shields.io/github/stars/stripe/agent-toolkit?style=flat-square)](https://github.com/stripe/agent-toolkit) |
+| [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) | Local macOS payments with foreground owner approval for signing | `brew install nuanu-ai/tap/apn` | [![GitHub](https://img.shields.io/github/stars/nuanu-ai/agent-payment-node?style=flat-square)](https://github.com/nuanu-ai/agent-payment-node) |
 | [Alpaca](https://github.com/alpacahq/alpaca-mcp-server) | Stock trading and real-time market data | `npx -y @alpacahq/mcp-server` | [![](https://img.shields.io/github/stars/alpacahq/alpaca-mcp-server?style=flat-square)](https://github.com/alpacahq/alpaca-mcp-server) |
 | [Adfin](https://github.com/Adfin-Engineering/mcp-server-adfin) | Payment and invoicing platform integration | `npx -y @adfin/mcp-server` | [![](https://img.shields.io/github/stars/Adfin-Engineering/mcp-server-adfin?style=flat-square)](https://github.com/Adfin-Engineering/mcp-server-adfin) |
 
