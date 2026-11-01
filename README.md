@@ -224,9 +224,10 @@ MCP is an open protocol (now part of the [Linux Foundation](https://www.linuxfou
 
 | Name | Description | Install | Stars |
 |------|-------------|---------|-------|
-| [Sentry](https://github.com/getsentry/sentry-mcp) | Error monitoring and AI-powered root cause analysis | Remote MCP | [![](https://img.shields.io/github/stars/getsentry/sentry-mcp?style=flat-square)](https://github.com/getsentry/sentry-mcp) |
 | [Datadog](https://github.com/DataDog/datadog-mcp-server) | Infrastructure monitoring, APM, and log analysis | Remote MCP | [![](https://img.shields.io/github/stars/DataDog/datadog-mcp-server?style=flat-square)](https://github.com/DataDog/datadog-mcp-server) |
+| [Kilobat CLI](https://github.com/seifip/kilobat-cli) | macOS DNS, latency and proxy diagnostics via local stdio MCP. | `brew install seifip/kilobat/kilobat` | [![GitHub](https://img.shields.io/github/stars/seifip/kilobat-cli?style=flat-square)](https://github.com/seifip/kilobat-cli) |
 | [PagerDuty](https://github.com/PagerDuty/mcp-server-pagerduty) | Incident management and on-call scheduling | `npx -y @pagerduty/mcp-server` | [![](https://img.shields.io/github/stars/PagerDuty/mcp-server-pagerduty?style=flat-square)](https://github.com/PagerDuty/mcp-server-pagerduty) |
+| [Sentry](https://github.com/getsentry/sentry-mcp) | Error monitoring and AI-powered root cause analysis | Remote MCP | [![](https://img.shields.io/github/stars/getsentry/sentry-mcp?style=flat-square)](https://github.com/getsentry/sentry-mcp) |
 
 ## Automation & Workflow
 
